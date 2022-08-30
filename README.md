@@ -225,4 +225,4 @@ set security policies from-zone SL-PRIVATE to-zone SL-PUBLIC policy internet-acc
 
 
 ## Autores :black_nib:
-Equipo IBM Cloud Tech Sales.
+Equipo IBM Cloud Tech Sales Colombia.
